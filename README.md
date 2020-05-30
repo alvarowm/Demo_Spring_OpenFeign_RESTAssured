@@ -1,4 +1,4 @@
-# Demo com Spring, OpenFeign e RESTAssured.
+# Demo com Spring, OpenFeign e REST Assured.
 
  Um pequena demonstração do uso de Spring Boot, Spring Data, Open Feign e Base H2 para cirar APIs REST 
 e um Client com Open Feign para escolher o melhor fornecedor para tirar pedidos.
